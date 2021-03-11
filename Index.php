@@ -8,5 +8,6 @@
 </head>
 <body>
 	<h2>AYOJANGANPATAH SEMANGAT</h2>
+	<p>AKUPASTIBISA</p>
 </body>
 </html>
