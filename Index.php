@@ -9,5 +9,8 @@
 <body>
 	<h2>AYOJANGANPATAH SEMANGAT</h2>
 	<p>AKUPASTIBISA</p>
+	<ul>
+		<li>AKUAKAUAUUU</li>
+		<li>AKAKFJIIEFHNIHEF</li>
 </body>
 </html>
